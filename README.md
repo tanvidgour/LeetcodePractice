@@ -1,1 +1,1 @@
-# squanchit
+# Leetcode Practice problems
